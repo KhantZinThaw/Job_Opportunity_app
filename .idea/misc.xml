@@ -1,0 +1,19 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/JobOpportunityJOApp/app/src/main/res/layout/activity_add_new_job_opportunity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/JobOpportunityJOApp/app/src/main/res/layout/activity_details_of_job_opportunity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/JobOpportunityJOApp/app/src/main/res/layout/activity_list_of_job_opportunities.xml" value="0.264" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/JobOpportunityJOApp/app/src/main/res/layout/activity_list_of_saved_job_opportunity.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/JobOpportunityJOApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
